@@ -1,0 +1,9 @@
+C:\Users\92349\source\repos\Coffeshop\Coffeshop\bin\Debug\netstandard2.0\Coffeshop.deps.json
+C:\Users\92349\source\repos\Coffeshop\Coffeshop\bin\Debug\netstandard2.0\Coffeshop.dll
+C:\Users\92349\source\repos\Coffeshop\Coffeshop\bin\Debug\netstandard2.0\Coffeshop.pdb
+C:\Users\92349\source\repos\Coffeshop\Coffeshop\obj\Debug\netstandard2.0\Coffeshop.csprojAssemblyReference.cache
+C:\Users\92349\source\repos\Coffeshop\Coffeshop\obj\Debug\netstandard2.0\Coffeshop.AssemblyInfoInputs.cache
+C:\Users\92349\source\repos\Coffeshop\Coffeshop\obj\Debug\netstandard2.0\Coffeshop.AssemblyInfo.cs
+C:\Users\92349\source\repos\Coffeshop\Coffeshop\obj\Debug\netstandard2.0\Coffeshop.csproj.CoreCompileInputs.cache
+C:\Users\92349\source\repos\Coffeshop\Coffeshop\obj\Debug\netstandard2.0\Coffeshop.dll
+C:\Users\92349\source\repos\Coffeshop\Coffeshop\obj\Debug\netstandard2.0\Coffeshop.pdb
